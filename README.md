@@ -1,2 +1,2 @@
 # home-work
-home work fro AI
+home work for AI
